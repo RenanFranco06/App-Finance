@@ -48,7 +48,7 @@ class Bd {
 
 		let id = localStorage.getItem('id')
 
-		//recuperar todas as despesas cadastradas em localStorage
+		//recuperar todas as despesas cadastradas em localStoragee
 		for(let i = 1; i <= id; i++) {
 
 			//recuperar a despesa
